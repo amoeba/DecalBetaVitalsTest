@@ -1,17 +1,24 @@
-﻿Iterating over vitals...
-Vital: ⚈ཾ; Base: 15
-Vital: Stamina; Base: 30
-Vital: Mana; Base: 10
-...Done.
-
+﻿
+```
 Iterating over vitals...
-Vital: ⾨ཬ; Base: 15
+Vital: 쳸ྋ; Base: 15
 Vital: Stamina; Base: 30
 Vital: Mana; Base: 10
 ...Done.
+```
 
-Iterating over vitals...
-Vital: 仰ጋ; Base: 15
+```
+Printing Vital Name by Index...
+쳸ྋ
+Stamina
+Mana
+...Done.
+```
+
+```
+Iterating over vitals via Underlying...
+Vital: 쳸ྋ; Base: 15
 Vital: Stamina; Base: 30
 Vital: Mana; Base: 10
 ...Done.
+```
